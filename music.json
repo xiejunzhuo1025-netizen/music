@@ -1,7 +1,8 @@
-[
-  {
-    "name": "龙卷风",
-    "artist": "周杰伦",
-    "url": "https://video.tankhui.cn/music/download?url=video/20260517031602-ltcRln9QGO0Q/ltcRln9QGO0Q.mp3"
-  }
-]
+{
+  "code": 200,
+  "title": "龙卷风",
+  "singer": "周杰伦",
+  "cover": "https://p1.music.126.net/xxxxxxxx.jpg",
+  "link": "https://music.163.com/",
+  "music_url": "https://video.tankhui.cn/music/download?url=video/20260517031602-ltcRln9QGO0Q/ltcRln9QGO0Q.mp3"
+}
